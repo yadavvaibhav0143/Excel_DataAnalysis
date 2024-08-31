@@ -1,8 +1,18 @@
 # Bike Buyers Analysis
 
+### Table of Contents
+
+- [Overview](overview)
+- [Data Description](data-description)
+- [Dataset Overview](dataset-overview)
+- [Key Statistics](key-statistics)
+- [Key Findings](key-findings)
+- [Tools & Techniques](tools-&-techniques)
+- [Conclusion](conclusion)
+
 ### Overview
 
-This project involves analyzing a dataset of bike buyers to understand the factors influencing bike purchases. The analysis is performed using various data science techniques and tools.
+This project involves analyzing a dataset of bike buyers to understand the factors influencing bike purchases. The analysis is performed using various data techniques and tools.
 
 ### Data Description
 
