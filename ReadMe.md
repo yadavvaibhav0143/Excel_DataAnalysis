@@ -8,13 +8,21 @@ This project involves analyzing a dataset of bike buyers to understand the facto
 
 The dataset consists of multiple sheets with the following key information;
 
-- Bike_Buyers: Contains demographic and purchase information of individuals.
+#### Bike_Buyers:
 
-- WorkingSheet: An extended version of the Bike_Buyers sheet with additional age brackets.
+Contains demographic and purchase information of individuals.
 
-- PivotTable: Summarizes average income by gender and purchase status.
+#### WorkingSheet: 
 
-- Dashboard: Placeholder for visual representation of the data.
+An extended version of the Bike_Buyers sheet with additional age brackets.
+
+#### PivotTable: 
+
+Summarizes average income by gender and purchase status.
+
+#### Dashboard: 
+
+Placeholder for visual representation of the data.
 
 ### Key Findings
 
