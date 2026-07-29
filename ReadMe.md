@@ -1,14 +1,5 @@
 # Bike Buyers Analysis
 
-### Table of Contents
-
-- [Overview](overview)
-- [Data Description](data-description)
-- [Dataset Overview](dataset-overview)
-- [Key Statistics](key-statistics)
-- [Key Findings](key-findings)
-- [Tools & Techniques](tools-&-techniques)
-- [Conclusion](conclusion)
 
 ### Overview
 
@@ -18,13 +9,13 @@ This project involves analyzing a dataset of bike buyers to understand the facto
 
 The dataset consists of multiple sheets with the following key information;
 
-`Bike_Buyers`: Contains demographic and purchase information of individuals.
+`Bike_Buyers`: Raw customer dataset containing demographic details, income, occupation, commute distance, and bike purchase status.
 
-`WorkingSheet`: An extended version of the Bike_Buyers sheet with additional age brackets.
+`WorkingSheet`: Cleaned and transformed dataset used for analysis, including derived fields such as Age Brackets.
 
-`PivotTable`: Summarizes average income by gender and purchase status.
+`PivotTable`: Summary tables created to analyze customer behaviour across different demographic and purchasing attributes.
 
-`Dashboard`: Placeholder for visual representation of the data.
+`Dashboard`: Interactive dashboard built using Pivot Charts to visualize key business insights.
 
 ### Dataset Overview
 
@@ -50,31 +41,35 @@ The dataset consists of multiple sheets with the following key information;
 
 ### Key Statistics:
 
-- Total Customers: 1000
-
-- Bike Purchasers: 481
-
-- Purchase Rate: 48.10%
-
-- Average Age: 44.16
-
-- Average Income: $56360.00
+- Total Customers: **1000**
+- Bike Purchasers: **481**
+- Purchase Rate: **48.10%**
+- Average Age: **44.16**
+- Average Income: **$56360.00**
 
 
 ### Key Findings
 
-`Demographics`: The dataset includes information on marital status, gender, income, education, occupation, home ownership, and more.
-
-`Purchase Patterns`: Analysis of the data reveals trends in bike purchases based on income, age, and other demographic factors.
-
-`Income Analysis`: The PivotTable provides insights into the average income of bike buyers segmented by gender.
+- Approximately **48%** of customers purchased a bike, while **52%** did not.
+- Customers in the **35–50 age group** represented the largest segment of bike buyers.
+- Customers with **higher incomes** were more likely to purchase a bike.
+- Customers with **shorter commute distances (0–2 miles)** showed a higher bike purchase rate.
+- Bike purchase behaviour varied across **gender** and **marital status**, indicating differences in customer segments.
 
 ### Tools and Techniques
 
-`Data Analysis`: Performed using Python and libraries such as Pandas and Matplotlib.
+Microsoft Excel
 
-`Visualization`: Insights are visualized using charts and graphs for better understanding.
+Pivot Tables
+
+Pivot Charts
+
+Dashboard
+
+Data Cleaning
+
+Data Visualization
 
 ### Conclusion
 
-This project provides valuable insights into the factors influencing bike purchases, which can be used for targeted marketing and sales strategies.
+This project demonstrates the use of Microsoft Excel to clean, analyze, and visualize customer purchasing data. The dashboard highlights demographic and behavioural patterns that can support customer segmentation and marketing decisions.
