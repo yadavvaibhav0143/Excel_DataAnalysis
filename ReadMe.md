@@ -17,11 +17,16 @@ The dataset consists of multiple sheets with the following key information;
 
 `Dashboard`: Interactive dashboard built using Pivot Charts to visualize key business insights.
 
+### Project Files
+
+- [Excel Workbook](./Excel%20Project_Dataset.xlsx)
+
+
 ### Dataset Overview
 
 #### Bike Purchase Distribution:
 
-![Bike Purchase Distribution](./assets/bike_purchase_distribution.png)
+![image](https://github.com/user-attachments/assets/97eeca60-8163-4c78-bbb5-e1f0b5b94177)
 
 #### Age Distribution of Bike Buyers:
 
