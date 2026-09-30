@@ -26,7 +26,7 @@ The dataset consists of multiple sheets with the following key information;
 
 #### Bike Purchase Distribution:
 
-![image](https://github.com/user-attachments/assets/97eeca60-8163-4c78-bbb5-e1f0b5b94177)
+![image](https://github.com/user-attachments/assets/c5283999-d2ee-4def-b984-5f6acf8b3f7a)
 
 #### Age Distribution of Bike Buyers:
 
