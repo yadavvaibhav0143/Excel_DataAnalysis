@@ -21,7 +21,7 @@ The dataset consists of multiple sheets with the following key information;
 
 #### Bike Purchase Distribution:
 
-![image](https://github.com/user-attachments/assets/c5283999-d2ee-4def-b984-5f6acf8b3f7a)
+![Bike Purchase Distribution](./assets/bike_purchase_distribution.png)
 
 #### Age Distribution of Bike Buyers:
 
@@ -51,10 +51,11 @@ The dataset consists of multiple sheets with the following key information;
 ### Key Findings
 
 - Approximately **48%** of customers purchased a bike, while **52%** did not.
-- Customers in the **35–50 age group** represented the largest segment of bike buyers.
-- Customers with **higher incomes** were more likely to purchase a bike.
-- Customers with **shorter commute distances (0–2 miles)** showed a higher bike purchase rate.
-- Bike purchase behaviour varied across **gender** and **marital status**, indicating differences in customer segments.
+- Customers in the **31–50 age group** represented the largest segment of bike buyers.
+- Bike purchasers had a modestly **higher average income** than non-purchasers **($57,963 vs. $54,875).**
+- Bike purchase rates were highest among customers with **(2–5 mile) commutes** and generally declined for longer commute distances.
+- Bike purchase rates varied more noticeably by **marital status**, while differences across gender were comparatively smaller.
+
 
 ### Tools and Techniques
 
